@@ -1,4 +1,4 @@
-Fotografo WordPress Theme, Copyright 2016 Cvasnii Evghenii
+Fotografo WordPress Theme, Copyright 2016 themescraft.co
 Fotografo is distributed under the terms of the GNU GPL (http://www.gnu.org/licenses/gpl-3.0.html)
 
 This program is free software: you can redistribute it and/or modify
